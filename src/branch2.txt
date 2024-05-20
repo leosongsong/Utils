@@ -1,19 +1,6 @@
+dev_1 에서 모두 삭제함
+추가 수정
 
 
-
-
-
-
-wwwwwwwwwwwwwwww
-wwwwwwwwwwwwwwww
-7wwwwwwwwwwwwwwww
-wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww
-wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww
-wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww
-
-
-xxxxxxxxxxxxxxxxxxxxxxxxxxx
-xxxxxxxxxxxxxxxxxxxxxxxxxxx
-xxxxxxxxxxxxxxxxxxxxxxxxxxx
-xxxxxxxxxxxxxxxxxxxxxxxxxxx
-xxxxxxxxxxxxxxxxxxxxxxxxxxx
+dev 자체가 수정됨
+dev1 에서 push
