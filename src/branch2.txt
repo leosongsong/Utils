@@ -4,3 +4,4 @@ dev_1 에서 모두 삭제함
 
 dev 자체가 수정됨
 dev1 에서 push
+dev1 에서 push 2번쨰
