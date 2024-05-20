@@ -6,3 +6,4 @@ dev 자체가 수정됨
 dev1 에서 push
 dev1 에서 push 2번쨰
 dev2 에서 push 1번쨰
+dev2 에서 push 2번쨰
